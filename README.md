@@ -1,2 +1,2 @@
-# contracts
-all contracts in nova corporation
+# Nova Contracts
+These are all the contracts used in Nova Corporation. Only officially published agreements and contracts can be placed in here. Some staff contracts will contain classified information and therefore hae been removed and put under a clearance.
